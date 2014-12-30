@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #CAC791;
+	color: #00001F;
+	background-color: #1A1325;
 }
 
 .html
@@ -46,7 +46,7 @@
 
 #u133-6
 {
-	z-index: 237;
+	z-index: 242;
 	width: 225px;
 	min-height: 56px;
 	background-color: transparent;
@@ -62,7 +62,7 @@
 
 #u154-12
 {
-	z-index: 243;
+	z-index: 248;
 	width: 225px;
 	min-height: 102px;
 	background-color: transparent;
@@ -84,7 +84,7 @@
 
 #u134-5
 {
-	z-index: 255;
+	z-index: 260;
 	width: 225px;
 	min-height: 56px;
 	background-color: transparent;
@@ -120,7 +120,7 @@
 
 #u138
 {
-	z-index: 260;
+	z-index: 265;
 	width: 80px;
 	background-color: transparent;
 	position: relative;
@@ -130,7 +130,7 @@
 
 #u144-4
 {
-	z-index: 262;
+	z-index: 267;
 	width: 225px;
 	min-height: 15px;
 	background-color: transparent;
@@ -181,7 +181,7 @@
 
 #u121-114
 {
-	z-index: 123;
+	z-index: 128;
 	width: 960px;
 	min-height: 81px;
 	background-color: transparent;
@@ -255,7 +255,7 @@
 
 #u131-5
 {
-	z-index: 88;
+	z-index: 93;
 	width: 470px;
 	min-height: 26px;
 	background-color: transparent;
@@ -324,7 +324,7 @@
 
 #u128-8
 {
-	z-index: 93;
+	z-index: 98;
 	width: 225px;
 	min-height: 81px;
 	background-color: transparent;
@@ -342,7 +342,7 @@
 
 #u129-8
 {
-	z-index: 108;
+	z-index: 113;
 	width: 225px;
 	min-height: 81px;
 	background-color: transparent;
@@ -417,7 +417,7 @@
 
 #u148-7
 {
-	z-index: 101;
+	z-index: 106;
 	width: 225px;
 	min-height: 81px;
 	background-color: transparent;
@@ -435,7 +435,7 @@
 
 #u149-7
 {
-	z-index: 116;
+	z-index: 121;
 	width: 225px;
 	min-height: 81px;
 	background-color: transparent;
@@ -472,7 +472,7 @@
 	text-decoration: underline;
 }
 
-#u151-18
+#u151-23
 {
 	z-index: 65;
 	width: 470px;
@@ -492,7 +492,7 @@
 
 #u152-5
 {
-	z-index: 83;
+	z-index: 88;
 	width: 470px;
 	min-height: 24px;
 	background-color: transparent;
@@ -503,11 +503,11 @@
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	margin-left: 245px;
-	margin-top: 148px;
+	margin-top: 141px;
 	position: relative;
 }
 
-#u133-2,#u154-4,#u154-8,#u151-2,#u151-6,#u151-8,#u151-13,#u152-2
+#u133-2,#u154-4,#u154-8,#u151-2,#u151-6,#u151-8,#u151-13,#u151-18,#u152-2
 {
 	font-family: maven-pro, sans-serif;
 	font-weight: 700;
