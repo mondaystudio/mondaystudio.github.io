@@ -1,0 +1,527 @@
+.version.index /* version checker */
+{
+	color: #000007;
+	background-color: #CAC791;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/substreamvol01_141230b_bg0.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 3042px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 30px;
+	padding-bottom: 38px;
+}
+
+#pu95
+{
+	width: 0.01px;
+}
+
+#u95
+{
+	z-index: 4;
+	width: 80px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 440px;
+}
+
+#u133-6
+{
+	z-index: 237;
+	width: 225px;
+	min-height: 56px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 18px;
+	text-align: left;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+}
+
+#u154-12
+{
+	z-index: 243;
+	width: 225px;
+	min-height: 102px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	text-align: left;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 133px;
+}
+
+#u133-4,#u154-2,#u154-6,#u154-10
+{
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u134-5
+{
+	z-index: 255;
+	width: 225px;
+	min-height: 56px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 18px;
+	text-align: right;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 735px;
+}
+
+#u89
+{
+	z-index: 2;
+	width: 512px;
+	background-color: transparent;
+	margin-left: 224px;
+	margin-top: 295px;
+	position: relative;
+}
+
+#pu138
+{
+	width: 0.01px;
+	margin-left: 368px;
+	margin-top: 48px;
+}
+
+#u138
+{
+	z-index: 260;
+	width: 80px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 73px;
+}
+
+#u144-4
+{
+	z-index: 262;
+	width: 225px;
+	min-height: 15px;
+	background-color: transparent;
+	font-size: 12px;
+	color: #FCA9DB;
+	letter-spacing: 0px;
+	line-height: 12px;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+}
+
+#u101-8
+{
+	z-index: 6;
+	width: 470px;
+	min-height: 81px;
+	background-color: transparent;
+	color: #FCA9DB;
+	font-size: 28px;
+	line-height: 56px;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 245px;
+	margin-top: 254px;
+	position: relative;
+}
+
+#u120-4
+{
+	z-index: 30;
+	width: 470px;
+	min-height: 15px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FCA9DB;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 700;
+	margin-left: 245px;
+	margin-top: 284px;
+	position: relative;
+}
+
+#u121-114
+{
+	z-index: 123;
+	width: 960px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 24px;
+	color: #FCA9DB;
+	line-height: 29px;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u121-7
+{
+	font-size: 26px;
+	line-height: 31px;
+}
+
+#u121-38,#u121-78,#u121-111
+{
+	letter-spacing: -1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u121-3,#u121-10,#u121-18,#u121-26,#u121-34,#u121-42,#u121-50,#u121-58,#u121-66,#u121-74,#u121-82,#u121-90,#u121-97,#u121-105
+{
+	font-size: 12px;
+	letter-spacing: 0px;
+	line-height: 14px;
+}
+
+#u121-9,#u121-11,#u121-17,#u121-19,#u121-25,#u121-27,#u121-33,#u121-35,#u121-41,#u121-43,#u121-49,#u121-51,#u121-57,#u121-59,#u121-65,#u121-67,#u121-73,#u121-75,#u121-81,#u121-83,#u121-89,#u121-91,#u121-96,#u121-98,#u121-104,#u121-106
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#u121-5,#u121-13,#u121-21,#u121-29,#u121-37,#u121-45,#u121-53,#u121-61,#u121-69,#u121-77,#u121-85,#u121-93,#u121-100,#u121-108
+{
+	font-size: 29px;
+	line-height: 35px;
+}
+
+#u121-2,#u121-4,#u121-6,#u121-8,#u121-12,#u121-14,#u121-16,#u121-20,#u121-22,#u121-24,#u121-28,#u121-30,#u121-32,#u121-36,#u121-40,#u121-44,#u121-46,#u121-48,#u121-52,#u121-54,#u121-56,#u121-60,#u121-62,#u121-64,#u121-68,#u121-70,#u121-72,#u121-76,#u121-80,#u121-84,#u121-86,#u121-88,#u121-92,#u121-94,#u121-99,#u121-101,#u121-103,#u121-107,#u121-109
+{
+	line-height: 29px;
+}
+
+#u121,#u121-15,#u121-23,#u121-31,#u121-39,#u121-47,#u121-55,#u121-63,#u121-71,#u121-79,#u121-87,#u121-95,#u121-102,#u121-110
+{
+	font-size: 28px;
+	line-height: 34px;
+}
+
+#u132-4
+{
+	z-index: 26;
+	width: 470px;
+	min-height: 15px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FCA9DB;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 700;
+	margin-left: 245px;
+	margin-top: 154px;
+	position: relative;
+}
+
+#u131-5
+{
+	z-index: 88;
+	width: 470px;
+	min-height: 26px;
+	background-color: transparent;
+	font-size: 24px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 29px;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 245px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u117-4
+{
+	z-index: 14;
+	width: 470px;
+	min-height: 15px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FCA9DB;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 700;
+	margin-left: 245px;
+	margin-top: 194px;
+	position: relative;
+}
+
+#u106-8
+{
+	z-index: 34;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u127-9
+{
+	z-index: 49;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 245px;
+}
+
+#u128-8
+{
+	z-index: 93;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 490px;
+}
+
+#u129-8
+{
+	z-index: 108;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 735px;
+}
+
+#u145-4
+{
+	z-index: 18;
+	width: 470px;
+	min-height: 15px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FCA9DB;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 700;
+	margin-left: 245px;
+	margin-top: 177px;
+	position: relative;
+}
+
+#pu106-8,#pu146-7
+{
+	width: 0.01px;
+	margin-top: 30px;
+}
+
+#u146-7
+{
+	z-index: 42;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u147-7
+{
+	z-index: 58;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 245px;
+}
+
+#u148-7
+{
+	z-index: 101;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 490px;
+}
+
+#u149-7
+{
+	z-index: 116;
+	width: 225px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 735px;
+}
+
+#u150-4
+{
+	z-index: 22;
+	width: 470px;
+	min-height: 15px;
+	background-color: transparent;
+	font-size: 14px;
+	color: #FCA9DB;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 700;
+	margin-left: 245px;
+	margin-top: 188px;
+	position: relative;
+}
+
+#u120,#u132,#u117,#u145,#u150
+{
+	text-decoration: underline;
+}
+
+#u151-18
+{
+	z-index: 65;
+	width: 470px;
+	min-height: 81px;
+	background-color: transparent;
+	font-size: 18px;
+	color: #FCA9DB;
+	letter-spacing: -1px;
+	line-height: 22px;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 245px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u152-5
+{
+	z-index: 83;
+	width: 470px;
+	min-height: 24px;
+	background-color: transparent;
+	color: #FCA9DB;
+	font-size: 14px;
+	letter-spacing: 0px;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 245px;
+	margin-top: 148px;
+	position: relative;
+}
+
+#u133-2,#u154-4,#u154-8,#u151-2,#u151-6,#u151-8,#u151-13,#u152-2
+{
+	font-family: maven-pro, sans-serif;
+	font-weight: 700;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 23px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
