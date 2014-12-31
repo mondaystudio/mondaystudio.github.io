@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #37AA3B;
+	color: #0000E2;
+	background-color: #4775E9;
 }
 
 .html
@@ -52,9 +52,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 18px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 18px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
@@ -90,9 +90,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 18px;
-	letter-spacing: -1px;
 	text-align: right;
+	letter-spacing: -1px;
+	line-height: 18px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -136,9 +136,9 @@
 	background-color: transparent;
 	font-size: 12px;
 	color: #FCA9DB;
-	line-height: 12px;
-	letter-spacing: 0px;
 	text-align: center;
+	letter-spacing: 0px;
+	line-height: 12px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -187,8 +187,8 @@
 	background-color: transparent;
 	font-size: 24px;
 	color: #FCA9DB;
-	line-height: 29px;
 	text-align: center;
+	line-height: 29px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	margin-top: 30px;
@@ -261,9 +261,9 @@
 	background-color: transparent;
 	font-size: 24px;
 	color: #FCA9DB;
-	line-height: 29px;
-	letter-spacing: -1px;
 	text-align: center;
+	letter-spacing: -1px;
+	line-height: 29px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	margin-left: 245px;
@@ -295,9 +295,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -312,9 +312,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -330,9 +330,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -348,9 +348,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -388,9 +388,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -405,9 +405,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -423,9 +423,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -441,9 +441,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: left;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -480,9 +480,9 @@
 	background-color: transparent;
 	font-size: 18px;
 	color: #FCA9DB;
-	line-height: 22px;
-	letter-spacing: -1px;
 	text-align: center;
+	letter-spacing: -1px;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 400;
 	margin-left: 245px;

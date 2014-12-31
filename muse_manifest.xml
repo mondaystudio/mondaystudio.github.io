@@ -1,7 +1,7 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1419955952311">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1419997420538">
   <folder name="css">
-    <file name="site_global.css" crc="4246669709"/>
-    <file name="index.css" crc="137865787" ref="index"/>
+    <file name="site_global.css" crc="126034594"/>
+    <file name="index.css" crc="3796334057" ref="index"/>
     <file name="iefonts_index.css" crc="424669817" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -16,5 +16,5 @@
     <file name="substreamvol01_html_logo_512x200.png" crc="3825335737" ref="index"/>
     <file name="substreamvol01_html_scroll_80x80.png" crc="4012447907" ref="index"/>
   </folder>
-  <file name="index.html" crc="3823046160" mt="1419955881225" redirect="true"/>
+  <file name="index.html" crc="4165927711" mt="1419997412710" redirect="true"/>
 </manifest>
