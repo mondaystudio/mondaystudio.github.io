@@ -1,10 +1,10 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1421239897774">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1421240075464">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="241673136" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="4021992670" ref="phone>index"/>
+      <file name="index.css" crc="3961454238" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3815265931" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4109194462" mt="1421239890125" redirect="true"/>
+    <file name="index.html" crc="150258969" mt="1421240068526" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="126034594"/>

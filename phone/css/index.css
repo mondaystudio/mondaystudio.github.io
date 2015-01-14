@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #67A3B0;
+	color: #0000EC;
+	background-color: #1EFE9E;
 }
 
 @-ms-viewport
@@ -133,7 +133,7 @@
 	position: relative;
 }
 
-#u345-47
+#u345-69
 {
 	z-index: 240;
 	width: 358px;
@@ -150,12 +150,18 @@
 	position: relative;
 }
 
-#u345,#u345-3,#u345-5,#u345-7,#u345-9,#u345-11,#u345-13,#u345-15,#u345-17,#u345-19,#u345-21,#u345-23,#u345-25,#u345-27,#u345-29,#u345-31,#u345-33,#u345-35,#u345-37,#u345-39,#u345-41,#u345-43
+#u345,#u345-5,#u345-10,#u345-14,#u345-19,#u345-23,#u345-28,#u345-32,#u345-37,#u345-41,#u345-46,#u345-50,#u345-55,#u345-59,#u345-64
+{
+	font-size: 21px;
+	line-height: 32px;
+}
+
+#u345-2,#u345-4,#u345-6,#u345-8,#u345-11,#u345-13,#u345-15,#u345-17,#u345-20,#u345-22,#u345-24,#u345-26,#u345-29,#u345-31,#u345-33,#u345-35,#u345-38,#u345-40,#u345-42,#u345-44,#u345-47,#u345-49,#u345-51,#u345-53,#u345-56,#u345-58,#u345-60,#u345-62,#u345-65
 {
 	line-height: 27px;
 }
 
-#u345-2,#u345-4,#u345-8,#u345-10,#u345-14,#u345-16,#u345-20,#u345-22,#u345-26,#u345-28,#u345-32,#u345-34,#u345-38,#u345-40,#u345-44
+#u345-3,#u345-7,#u345-12,#u345-16,#u345-21,#u345-25,#u345-30,#u345-34,#u345-39,#u345-43,#u345-48,#u345-52,#u345-57,#u345-61,#u345-66
 {
 	font-size: 11px;
 	line-height: 17px;
@@ -173,7 +179,7 @@
 	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 700;
-	margin-top: 100px;
+	margin-top: 60px;
 	position: relative;
 }
 
@@ -243,7 +249,7 @@
 	position: relative;
 }
 
-#u306-3,#u345-6,#u345-12,#u345-18,#u345-24,#u345-30,#u345-36,#u345-42,#u345-45,#u344-6
+#u306-3,#u345-9,#u345-18,#u345-27,#u345-36,#u345-45,#u345-54,#u345-63,#u345-67,#u344-6
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
@@ -591,7 +597,7 @@
 
 #u346-4
 {
-	z-index: 287;
+	z-index: 309;
 	width: 358px;
 	min-height: 15px;
 	background-color: transparent;
@@ -607,7 +613,7 @@
 
 #u347-23
 {
-	z-index: 291;
+	z-index: 313;
 	width: 358px;
 	min-height: 81px;
 	background-color: transparent;
@@ -624,7 +630,7 @@
 
 #u348-5
 {
-	z-index: 314;
+	z-index: 336;
 	width: 358px;
 	min-height: 24px;
 	background-color: transparent;
