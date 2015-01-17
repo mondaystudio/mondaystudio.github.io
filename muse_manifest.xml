@@ -1,10 +1,10 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1421240075464">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1421495631854">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3961454238" ref="phone>index"/>
+      <file name="index.css" crc="268777098" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3815265931" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="150258969" mt="1421240068526" redirect="true"/>
+    <file name="index.html" crc="3836346909" mt="1421495613712" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="126034594"/>
@@ -26,5 +26,5 @@
     <file name="substreamvol01_html_scroll_80x80.png" crc="3954837573" ref="index"/>
     <file name="substreamvol01_html_logo_512x200256x100.png" crc="286605278" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="253673711" mt="1421238695574" redirect="true"/>
+  <file name="index.html" crc="322059618" mt="1421495501949" redirect="true"/>
 </manifest>
