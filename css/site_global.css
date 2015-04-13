@@ -83,25 +83,25 @@ body
 
 a:link
 {
-	color: #FCA9DB;
+	color: #000000;
 	text-decoration: none;
 }
 
 a:visited
 {
-	color: #FCA9DB;
+	color: #000000;
 	text-decoration: none;
 }
 
 a:hover
 {
-	color: #495CA9;
+	color: #ED1C24;
 	text-decoration: none;
 }
 
 a:active
 {
-	color: #495CA9;
+	color: #000000;
 	text-decoration: none;
 }
 
@@ -111,6 +111,30 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
+}
+
+.Link a:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.Link a:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.Link a:hover
+{
+	color: #ED1C24;
+	text-decoration: none;
+}
+
+.Link a:active
+{
+	color: #000000;
+	text-decoration: none;
 }
 
 .normal_text
