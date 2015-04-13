@@ -3,12 +3,19 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?17485671" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/index.html', '');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2014.2.1.284"/>
   <title>SUBBEAT</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://subbe.at/phone/index.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4273054669"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?48447824" id="pagesheet"/>
