@@ -1,9 +1,9 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428930741582">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428930935206">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="210161713" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="208273173" mt="1428930731427" redirect="true"/>
+    <file name="index.html" crc="232210237" mt="1428930910403" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4273054669"/>
@@ -15,5 +15,5 @@
     <file name="jquery.watch.js" crc="4144919381" ref="index:phone>index"/>
     <file name="museredirect.js" crc="17485671" ref="index"/>
   </folder>
-  <file name="index.html" crc="3822974181" mt="1428930553589" redirect="true"/>
+  <file name="index.html" crc="4258124953" mt="1428930920031" redirect="true"/>
 </manifest>
