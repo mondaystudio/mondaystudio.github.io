@@ -1,9 +1,9 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428930935206">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428931035758">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="210161713" ref="phone>index"/>
+      <file name="index.css" crc="433613906" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="232210237" mt="1428930910403" redirect="true"/>
+    <file name="index.html" crc="232210237" mt="1428931025728" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4273054669"/>
