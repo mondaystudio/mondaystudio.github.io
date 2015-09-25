@@ -1,13 +1,13 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1436798437083">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1443186997704">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="73140061" ref="phone>index"/>
+      <file name="index.css" crc="4035219328" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="280832599" mt="1436798310376" redirect="true"/>
+    <file name="index.html" crc="7186115" mt="1443186923514" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4047461162"/>
-    <file name="index.css" crc="3944616292" ref="index"/>
+    <file name="index.css" crc="158587604" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:phone>index"/>
@@ -15,5 +15,5 @@
     <file name="jquery.watch.js" crc="56779320" ref="index:phone>index"/>
     <file name="museredirect.js" crc="4117159434" ref="index"/>
   </folder>
-  <file name="index.html" crc="4005452231" mt="1436798416667" redirect="true"/>
+  <file name="index.html" crc="318163496" mt="1443186756635" redirect="true"/>
 </manifest>
