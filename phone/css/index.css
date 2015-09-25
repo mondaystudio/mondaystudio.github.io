@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #848F80;
+	color: #000015;
+	background-color: #5FB5E5;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 319px;
-	min-height: 1640.6999999999957px;
+	min-height: 1640.6999999999953px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -151,8 +151,8 @@
 	width: 196px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 15px;
 	font-size: 10px;
+	line-height: 15px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -242,8 +242,8 @@
 	width: 196px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 15px;
 	font-size: 10px;
+	line-height: 15px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -285,8 +285,8 @@
 	width: 196px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 15px;
 	font-size: 10px;
+	line-height: 15px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -328,8 +328,8 @@
 	width: 210px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 15px;
 	font-size: 10px;
+	line-height: 15px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -374,8 +374,8 @@
 	min-height: 60px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -420,8 +420,8 @@
 	min-height: 50px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	position: relative;
@@ -465,8 +465,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	position: relative;
@@ -510,8 +510,8 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	position: relative;
@@ -562,8 +562,8 @@
 	min-height: 40px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	position: relative;
@@ -614,8 +614,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	position: relative;
@@ -666,8 +666,8 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 15px;
-	font-size: 10px;
 	color: #000000;
+	font-size: 10px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	margin-left: 10px;
 	position: relative;
