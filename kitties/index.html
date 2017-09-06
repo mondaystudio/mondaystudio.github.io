@@ -14,12 +14,12 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>Home</title>
+  <title>SUBBEAT: KITTIES #1</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=187244646" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3889185953" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/N-L1oCkWkrO_8N2nbb1aY7LqLPL3iYz0nyb4pm_44OSfeGvgfF128MIPH2JXwDwX5QiLZcbtjD6kZeJtF2SDFhIajQbtFDmcZeIoFebojR4Kwhw-JfG0SamKjc90jWbCSamKjc90jWbCiaiaO1Fujc48OcBXJ6lc-AUDdhtlShNcifGHfwD6MsMMeMq6MKGHfwz6MsMMeMS6MKGHfFQ6MsMMeMJ6MqGIQWmDZZMgTS1MDb9.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/qkcUGp05tx5cVcB1GMTfvWCQNuHg0tKhoTikUpfw5fGfeGvgfF128MIPH2JXwDwX5QiLZcbtjD6kZeJtF2SDFhIajQbtFDmcZeIoFebojR4Kwhw-JfG0SamKjc90jWbCSamKjc90jWbCiaiaO1Fujc48OcBXJ6lc-AUDdhtlShNcifGHfwD6MsMMeMq6MKGHfwz6MsMMeMS6MKGHfFQ6MsMMeMJ6MqGIQWmDZZMgrCnMDb9.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -28,8 +28,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <div id="u94-24-wrapper">
-    <div class="clearfix pinned-colelem" id="u94-24" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+   <div class="browser_width colelem" id="u94-24-bw">
+    <div class="clearfix" id="u94-24" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
      <p id="u94-2">KITTIES</p>
      <p id="u94-4">ARE COMING</p>
      <p id="u94-6">SOON!</p>
@@ -44,7 +44,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p id="u94-22">2017 SUBBEAT</p>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="500" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="440" data-content-above-spacer="440" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -61,6 +61,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
