@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="subbe.at/kitties" resolutions="1x" timestamp="1504716499839">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="subbe.at/kitties" resolutions="1x" timestamp="1504716555212">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="345487550" ref="index"/>
@@ -11,5 +11,5 @@
     <file name="jquery.watch.js" crc="4240030481" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
-  <file name="index.html" crc="3934024184" seo="true" mt="1504716490460" redirect="true"/>
+  <file name="index.html" crc="24171294" seo="true" mt="1504716542227" redirect="true"/>
 </manifest>
