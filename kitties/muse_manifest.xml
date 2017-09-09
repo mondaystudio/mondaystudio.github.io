@@ -1,15 +1,41 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="subbe.at/kitties" resolutions="1x" timestamp="1504716555212">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="subbe.at/kitties" resolutions="1x" timestamp="1504974168853">
+  <folder name="images">
+    <file name="road130x87.jpg" crc="4174814531" seo="true" ref="subbeat-kitties--1">
+      <caption webpage="subbeat-kitties--1" alt=""/>
+    </file>
+    <file name="cactus130x87.jpg" crc="4128071816" seo="true" ref="subbeat-kitties--1">
+      <caption webpage="subbeat-kitties--1" alt=""/>
+    </file>
+    <file name="trees131x87.jpg" crc="161751756" seo="true" ref="subbeat-kitties--1">
+      <caption webpage="subbeat-kitties--1" alt=""/>
+    </file>
+    <file name="road-crop-u275.jpg" crc="402750929" seo="true" ref="subbeat-kitties--1">
+      <caption webpage="subbeat-kitties--1" alt=""/>
+    </file>
+    <file name="cactus-crop-u280.jpg" crc="208405953" seo="true" ref="subbeat-kitties--1">
+      <caption webpage="subbeat-kitties--1" alt=""/>
+    </file>
+    <file name="trees-crop-u283.jpg" crc="463150997" seo="true" ref="subbeat-kitties--1">
+      <caption webpage="subbeat-kitties--1" alt=""/>
+    </file>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="345487550" ref="index"/>
+    <file name="subbeat-kitties--1.css" crc="3920583178" ref="subbeat-kitties--1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="278381782" ref="index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:subbeat-kitties--1"/>
+    <file name="museutils.js" crc="17924269" ref="index:subbeat-kitties--1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:subbeat-kitties--1"/>
+    <file name="museconfig.js" crc="278381782" ref="index:subbeat-kitties--1"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:subbeat-kitties--1"/>
+    <file name="require.js" crc="3861931657" ref="index:subbeat-kitties--1"/>
+    <file name="webpro.js" crc="416662029" ref="subbeat-kitties--1"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="subbeat-kitties--1"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="subbeat-kitties--1"/>
+    <file name="touchswipe.js" crc="432264157" ref="subbeat-kitties--1"/>
   </folder>
-  <file name="index.html" crc="24171294" seo="true" mt="1504716542227" redirect="true"/>
+  <file name="index.html" crc="3894234499" seo="true" mt="1504974094112" redirect="true"/>
+  <file name="subbeat-kitties--1.html" crc="4216877991" seo="true" mt="1504725569657" redirect="true"/>
 </manifest>
