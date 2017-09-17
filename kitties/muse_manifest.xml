@@ -1,12 +1,18 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="subbe.at/kitties" resolutions="1x" timestamp="1505656390576">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="subbe.at/kitties" resolutions="1x,2x" timestamp="1505657604145">
   <folder name="images">
     <file name="kitties_1_bg.jpg" crc="349003011" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="subbeat_id2_150601_white.png" crc="127210849" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="subbeat_id2_150601_white_2x.png" crc="4117645463" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4285954386" ref="index"/>
+    <file name="index.css" crc="4128986947" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,5 +22,5 @@
     <file name="jquery.watch.js" crc="4240030481" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
-  <file name="index.html" crc="4012877562" seo="true" mt="1505656377223" redirect="true"/>
+  <file name="index.html" crc="3985183408" seo="true" mt="1504715227291" redirect="true"/>
 </manifest>
